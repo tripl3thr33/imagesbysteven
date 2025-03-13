@@ -3547,7 +3547,7 @@ figcaption {
   color: #4b90ce;
   flex: 1;
   margin-bottom: 16px;
-  font-size: 55px;
+  font-size: 2em;
   line-height: 1.3em;
   display: block;
 }
