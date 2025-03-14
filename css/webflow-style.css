@@ -5603,6 +5603,6 @@ figcaption {
             }
         }
 		
-img .logo {
+img.logo {
 			width: 250px;
 		}
