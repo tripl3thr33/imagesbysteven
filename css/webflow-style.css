@@ -5602,3 +5602,7 @@ figcaption {
                 column-count: 1;
             }
         }
+		
+img .logo {
+			width: 250px;
+		}
